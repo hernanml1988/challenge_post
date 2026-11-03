@@ -10,10 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@reduxjs/toolkit": "^2.13.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "react-redux": "^9.3.1"
+=======
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+>>>>>>> origin/main
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
